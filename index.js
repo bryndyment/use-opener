@@ -1,1 +1,3 @@
-console.log('useOpener')
+const useOpener = () => console.log('useOpener')
+
+export default useOpener
