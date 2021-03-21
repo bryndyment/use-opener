@@ -1,6 +1,6 @@
 {
   "name": "use-opener",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "useOpener React hook for use with Material-UI",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/bryndyment/use-opener.git"
   },
+  "keywords": [
+    "useOpener",
+    "React",
+    "hook",
+    "Material-UI"
+  ],
   "author": "Bryn Dyment <bryndyment@gmail.com>",
   "license": "ISC",
   "bugs": {
