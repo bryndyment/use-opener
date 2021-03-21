@@ -1,2 +1,2 @@
 # use-opener
-useOpener hook (for React/Material-UI)
+useOpener hook for React/Material-UI

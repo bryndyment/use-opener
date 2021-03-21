@@ -1,0 +1,25 @@
+{
+  "name": "use-opener",
+  "version": "1.0.0",
+  "description": "useOpener hook for React/Material-UI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryndyment/use-opener.git"
+  },
+  "keywords": [
+    "useOpener",
+    "hook",
+    "React",
+    "Material-UI"
+  ],
+  "author": "Bryn Dyment <bryndyment@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bryndyment/use-opener/issues"
+  },
+  "homepage": "https://github.com/bryndyment/use-opener#readme"
+}
